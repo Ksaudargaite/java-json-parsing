@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "rh": 64,
+      "pod": "d",
+      "lon": 18.0649,
+      "pres": 1000.7,
+      "timezone": "Europe\/Stockholm",
+      "ob_time": "2020-08-23 08:50",
+      "country_code": "SE",
+      "clouds": 76,
+      "ts": 1598172600,
+      "solar_rad": 407.6,
+      "state_code": "26",
+      "city_name": "Stockholm",
+      "wind_spd": 5.7,
+      "wind_cdir_full": "southwest",
+      "wind_cdir": "SW",
+      "slp": 1002,
+      "vis": 5,
+      "h_angle": -22.5,
+      "sunset": "18:15",
+      "dni": 818.14,
+      "dewpt": 13,
+      "snow": 0,
+      "uv": 5.2971,
+      "precip": 0,
+      "wind_dir": 230,
+      "sunrise": "03:26",
+      "ghi": 594.74,
+      "dhi": 101.41,
+      "aqi": 55,
+      "lat": 59.33258,
+      "weather": {
+        "icon": "c04d",
+        "code": "804",
+        "description": "Overcast clouds"
+      },
+      "datetime": "2020-08-23:09",
+      "temp": 20,
+      "station": "ESSB",
+      "elev_angle": 37.66,
+      "app_temp": 19.8
+    }
+  ],
+  "count": 1
+}
